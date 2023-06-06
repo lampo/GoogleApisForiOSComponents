@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GoogleApisForiOSComponents
+  annotations:
+    github.com/project-slug: lampo/GoogleApisForiOSComponents
+spec:
+  type: general
+  lifecycle: production
